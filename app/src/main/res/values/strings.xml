@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="open_weather_maps_app_id">29d0025d8122c56fd607beeb88faf536</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
